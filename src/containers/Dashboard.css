@@ -46,8 +46,24 @@
     flex: 7;
     border-radius: 11px;
     margin-left: 91px;
+    
+}
+.stars .fas{
+    color: yellow;
+}
+.stars .lastStar{
+    color: white !important;
 }
 
+.loaders{
+    display: flex;
+    justify-content: space-around;
+}
+
+.attendance, .tests, .ratings{
+    text-align: center;
+}
+    
 .activityContainer{
     display: flex;
     margin: 8px auto;
@@ -85,5 +101,7 @@
     justify-content: space-between;
     height: 370px;
     width: 1050px;
+    background: #F6F6F6;
+
 
 }

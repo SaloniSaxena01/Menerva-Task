@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState, useEffect} from 'react';
 import './Dashboard.css';
 import CardClass from '../components/CardClass';
 import CardTest from '../components/CardTest';
@@ -8,10 +8,13 @@ import img1 from '../images/Vector.png';
 import { CircularProgressbar } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 
-const percentage=90;
-const marks=90;
-
 const Dashboard = () => {
+    const [percentage, setpercentage] = useState(0)
+                const [marks, setmarks] = useState(0)
+                useEffect(() => {
+                setpercentage(90);
+                setmarks(90);
+                },[])
     return (
         <div className="dashboard">
             <div className="dashboardContainer">
@@ -36,18 +39,22 @@ const Dashboard = () => {
                 </div>
 
                 <div className="right">
+                
+
                 <div className="user-performance">
             <div className="loaders">
                 <div className="attendance">
                     Attendance <br />
                     <div style={{ width: 86.62, height: 86.62, left: 56.94, top: 78.25}}>
                         <CircularProgressbar value={percentage} text={`${percentage}%`} />
+                        <p>Last Absence<br />2nd May, 12:00 PM</p>
                     </div>
                 </div>
                 <div className="tests">
                     Tests <br />
                     <div style={{ width: 86.62, height: 86.62, left: 56.94, top: 78.25}}>
                         <CircularProgressbar value={marks} text={`${marks}%`} />
+                        <p>Last Tests<br />100%</p>
                     </div>
                 </div>
 

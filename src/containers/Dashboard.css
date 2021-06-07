@@ -10,7 +10,7 @@
 }
 
 .left{
-    background-color: #F6F6F6;
+    background-color: #f6f6f6;
     border-radius: 11px;
     flex: 5;
     padding: 3px 6px;
@@ -42,7 +42,7 @@
 }
 
 .right{
-    background-color: #F6F6F6;
+    background-color: #f6f6f6;
     flex: 7;
     border-radius: 11px;
     margin-left: 91px;

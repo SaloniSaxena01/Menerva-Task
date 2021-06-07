@@ -13,7 +13,6 @@
     flex-direction: column;
     justify-content: center;
     border-radius: 4px;
-    width: 135px;
 
 }
 
@@ -33,7 +32,6 @@ span{
     flex-direction: column;
     justify-content: center;
     border-radius: 4px;
-    width: 135px;
 
 }
 .HomeworkCard p, .TestCard p{
@@ -54,6 +52,5 @@ span{
     flex-direction: column;
     justify-content: center;
     border-radius: 4px;
-    width: 135px;
 
 }

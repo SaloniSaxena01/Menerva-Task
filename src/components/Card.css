@@ -1,0 +1,59 @@
+.ClassCard>h6{
+    background-color: green;
+    color: white;
+    padding: 5px;
+
+    
+}
+
+.ClassCard{
+    border: 0.5px solid #939393;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 4px;
+    width: 135px;
+
+}
+
+span{
+    font-size: 12px;
+}
+
+.TestCard>h6{
+    background-color:red;
+    color: white;
+    padding: 5px;
+}
+.TestCard{
+    border: 0.5px solid #939393;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 4px;
+    width: 135px;
+
+}
+.HomeworkCard p, .TestCard p{
+    font-size: 12px;
+    margin-bottom: 0px;
+    
+}
+
+.HomeworkCard>h6{
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+}
+.HomeworkCard{
+    border: 0.5px solid #939393;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 4px;
+    width: 135px;
+
+}

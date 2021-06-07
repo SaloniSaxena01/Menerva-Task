@@ -1,0 +1,89 @@
+.dashboard{
+    padding: 39px 158px;
+}
+
+.dashboardContainer{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.left{
+    background-color: #F6F6F6;
+    border-radius: 11px;
+    flex: 5;
+    padding: 3px 6px;
+}
+
+.left_name{
+    display: flex;
+    margin-bottom: 5px;
+}
+.left_icon{
+    margin-left: auto;
+}
+.left_icon_button{
+    height: 26px;
+    width: 98px;
+    border-radius: 5px;
+    border: 1.5px solid #0047B1;
+    margin-right: 10px;
+
+}
+.left_name .fas{
+    font-size: 28px;
+    margin-left: 30px;
+    margin-right: 12px;
+}
+.left_name img{
+    margin-left: 30px;
+    margin-right: 12px;
+}
+
+.right{
+    background-color: #F6F6F6;
+    flex: 7;
+    border-radius: 11px;
+    margin-left: 91px;
+}
+
+.activityContainer{
+    display: flex;
+    margin: 8px auto;
+    align-items: center;
+}
+.activityContainer>button{
+    height: 37px;
+    width: 170px;
+    border-radius: 9px;
+    color: white;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    background-color:#0047B1;
+
+}
+
+.line{
+    height:3px ;
+    background-color:  #939393;
+    flex: auto;
+    margin: auto 30px;
+    
+}
+
+.tableHeading{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E2E2E2;
+    border-radius: 13.5px
+}
+
+.tableContent{
+    display: flex;
+    justify-content: space-between;
+    height: 370px;
+    width: 1050px;
+
+}

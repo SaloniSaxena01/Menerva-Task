@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Menerva-Task/static/css/main.2937f0db.chunk.css",
-    "main.js": "/Menerva-Task/static/js/main.80f5c724.chunk.js",
-    "main.js.map": "/Menerva-Task/static/js/main.80f5c724.chunk.js.map",
+    "main.css": "/Menerva-Task/static/css/main.17549629.chunk.css",
+    "main.js": "/Menerva-Task/static/js/main.93426279.chunk.js",
+    "main.js.map": "/Menerva-Task/static/js/main.93426279.chunk.js.map",
     "runtime-main.js": "/Menerva-Task/static/js/runtime-main.439e7350.js",
     "runtime-main.js.map": "/Menerva-Task/static/js/runtime-main.439e7350.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/Menerva-Task/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.b86bce2d.chunk.js": "/Menerva-Task/static/js/2.b86bce2d.chunk.js",
-    "static/js/2.b86bce2d.chunk.js.map": "/Menerva-Task/static/js/2.b86bce2d.chunk.js.map",
+    "static/js/2.aa0134d8.chunk.js": "/Menerva-Task/static/js/2.aa0134d8.chunk.js",
+    "static/js/2.aa0134d8.chunk.js.map": "/Menerva-Task/static/js/2.aa0134d8.chunk.js.map",
     "index.html": "/Menerva-Task/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/Menerva-Task/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.2937f0db.chunk.css.map": "/Menerva-Task/static/css/main.2937f0db.chunk.css.map",
-    "static/js/2.b86bce2d.chunk.js.LICENSE.txt": "/Menerva-Task/static/js/2.b86bce2d.chunk.js.LICENSE.txt"
+    "static/css/main.17549629.chunk.css.map": "/Menerva-Task/static/css/main.17549629.chunk.css.map",
+    "static/js/2.aa0134d8.chunk.js.LICENSE.txt": "/Menerva-Task/static/js/2.aa0134d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.439e7350.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.b86bce2d.chunk.js",
-    "static/css/main.2937f0db.chunk.css",
-    "static/js/main.80f5c724.chunk.js"
+    "static/js/2.aa0134d8.chunk.js",
+    "static/css/main.17549629.chunk.css",
+    "static/js/main.93426279.chunk.js"
   ]
 }
